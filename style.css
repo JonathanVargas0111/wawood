@@ -59,3 +59,14 @@ section{
     font-size: 20px;
     margin-bottom: 25px;
 }
+
+/* Estilo de servicions con efecto hover */
+.seccion-servicios .servicios .row div div{
+    border: purple 5px solid;
+    padding: 50px;    
+}
+.seccion-servicios .servicios .row div div:hover{
+    border: red 5px solid;
+    padding: 50px;
+    
+}
