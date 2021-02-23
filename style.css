@@ -1,0 +1,46 @@
+section{
+    margin-bottom: 80px;
+}
+.linea {
+    border-top: 2px solid black;
+    height: 2px;
+    max-width: 150px;
+    padding: 0;
+    margin: 20px auto 15px auto;
+}
+.titulo-seccion h3{
+    letter-spacing: 2px;    
+    font-size: 10px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.logos-clientes{
+    margin-top: 50px;
+}
+
+.card-persona h3{
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.info-descripcion{
+    margin-bottom: 60px;
+}
+
+.info-descripcion h4{
+    font-size:40px;
+    color: darkblue;
+    margin-bottom: 20px;
+}
+
+.descripcion-quienes-somos{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Estilos de los card de las personas */
+.info-card img{
+    width: 90%;
+    
+}
